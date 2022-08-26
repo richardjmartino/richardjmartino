@@ -2,12 +2,26 @@ Useful Websites:
 
 Quarto: 
     https://quarto.org/docs/guide/
+    
+RStudio Package Manager:
+    https://packagemanager.rstudio.com/client/#/repos/2/overview
+
+TidyModels:
+    https://www.tidymodels.org/packages/
+    https://www.tidyverse.org/tags/tidymodels/
 
 RStudio Blog: 
     https://www.rstudio.com/blog/
-
+    
+ggplot2 Book:
+    https://ggplot2-book.org/
+    
 Knitr Chunk Options: 
     https://yihui.org/knitr/options/
+ 
+Shiny UI Editors:
+    https://rstudio.github.io/shinyuieditor/index.html
+    https://github.com/rstudio/gridlayout
 
 Mermaid Markdownish Diagrams: 
     https://mermaid-js.github.io/mermaid/#/
