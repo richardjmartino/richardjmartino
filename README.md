@@ -22,7 +22,7 @@ Presentations:
     https://revealjs.com/
 
 Crowd-soruced code mentorship: 
-     https://github.com/exercism/exercism 
+    https://github.com/exercism/exercism 
 
 Colors and Contrast Checker: 
     https://coolors.co/ https://coolors.co/contrast-checker
@@ -67,6 +67,10 @@ Project hosting:
     
 Zulip - open source team chat:
     https://github.com/zulip/zulip
+    
+Regular Expressions(regex): 
+    https://en.wikibooks.org/wiki/Regular_Expressions/POSIX_Basic_Regular_Expressions
+    https://regex101.com/
   
 <!---
 richardjmartino/richardjmartino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
