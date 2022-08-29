@@ -31,6 +31,9 @@ Graph Diagrams:
 
 Maps: 
     https://leafletjs.com/
+  
+Book - geographic data analysis, visualization and modeling:
+    https://geocompr.robinlovelace.net/
 
 Presentations: 
     https://revealjs.com/
@@ -85,6 +88,10 @@ Zulip - open source team chat:
 Regular Expressions(regex): 
     https://en.wikibooks.org/wiki/Regular_Expressions/POSIX_Basic_Regular_Expressions
     https://regex101.com/
+    
+    
+Wireframing: 
+    https://balsamiq.com/wireframes/
   
 <!---
 richardjmartino/richardjmartino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
