@@ -1,5 +1,6 @@
 # Useful Websites:
 
+## R and Quarto
 Quarto: 
     https://quarto.org/docs/guide/
     
@@ -12,10 +13,7 @@ TidyModels:
 
 RStudio Blog: 
     https://www.rstudio.com/blog/
-    
-ggplot2 Book:
-    https://ggplot2-book.org/
-    
+   
 Knitr Chunk Options: 
     https://yihui.org/knitr/options/
  
@@ -31,33 +29,11 @@ Graph Diagrams:
 
 Maps: 
     https://leafletjs.com/
-  
-Book - geographic data analysis, visualization and modeling:
-    https://geocompr.robinlovelace.net/
 
 Presentations: 
     https://revealjs.com/
-
-Crowd-soruced code mentorship: 
-    https://github.com/exercism/exercism 
-
-Colors and Contrast Checker: 
-    https://coolors.co/ https://coolors.co/contrast-checker
-
-Citations: 
-    https://github.com/citation-style-language/styles
-
-Icons:
-    https://thenounproject.com/ 
-    https://icons.getbootstrap.com/
     
-binder - Git repo to interactive notebook:
-    https://binder.mybinder.ovh/
-
-Homebrew - Missing package manager:
-    https://github.com/Homebrew/brew
-
-## Python
+## Python and other languages
     
 Python PEP 8 Style Guide:
     https://peps.python.org/pep-0008/ 
@@ -75,6 +51,27 @@ Observable:
 Julia
     https://julialang.org/
     
+## Books
+Think Python 2e:
+    https://greenteapress.com/wp/think-python-2e/
+
+R Markdown Cookbook:
+    https://bookdown.org/yihui/rmarkdown-cookbook/
+
+ggplot2 Book:
+    https://ggplot2-book.org/
+    
+Mastering Shiny:
+    https://mastering-shiny.org/index.html
+    
+Book - geographic data analysis, visualization and modeling:
+    https://geocompr.robinlovelace.net/    
+    
+## Other Tools
+
+Crowd-sourced code mentorship: 
+    https://github.com/exercism/exercism 
+    
 Project hosting:
     https://pages.github.com/
     https://www.netlify.com/
@@ -84,21 +81,26 @@ Zulip - open source team chat:
     
 Regular Expressions(regex): 
     https://en.wikibooks.org/wiki/Regular_Expressions/POSIX_Basic_Regular_Expressions
-    https://regex101.com/
-    
-    
+    https://regex101.com/    
+
 Wireframing: 
     https://balsamiq.com/wireframes/
-    
-## Books
-Think Python 2e:
-    https://greenteapress.com/wp/think-python-2e/
 
-R Markdown Cookbook:
-    https://bookdown.org/yihui/rmarkdown-cookbook/
+Colors and Contrast Checker: 
+    https://coolors.co/ https://coolors.co/contrast-checker
+
+Citations: 
+    https://github.com/citation-style-language/styles
+
+Icons:
+    https://thenounproject.com/ 
+    https://icons.getbootstrap.com/
     
-Mastering Shiny:
-    https://mastering-shiny.org/index.html
+binder - Git repo to interactive notebook:
+    https://binder.mybinder.ovh/
+
+Homebrew - Missing package manager:
+    https://github.com/Homebrew/brew
 <!---
 richardjmartino/richardjmartino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
