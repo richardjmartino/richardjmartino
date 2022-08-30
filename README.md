@@ -1,4 +1,4 @@
-#Useful Websites:
+# Useful Websites:
 
 Quarto: 
     https://quarto.org/docs/guide/
@@ -57,7 +57,7 @@ binder - Git repo to interactive notebook:
 Homebrew - Missing package manager:
     https://github.com/Homebrew/brew
 
-##Python
+## Python
     
 Python PEP 8 Style Guide:
     https://peps.python.org/pep-0008/ 
@@ -90,7 +90,7 @@ Regular Expressions(regex):
 Wireframing: 
     https://balsamiq.com/wireframes/
     
-##Books
+## Books
 Think Python 2e:
     https://greenteapress.com/wp/think-python-2e/
 
