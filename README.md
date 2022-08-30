@@ -121,6 +121,13 @@ Expo app building:
 
 Homebrew - Missing package manager:
     https://github.com/Homebrew/brew
+    
+Text Editors:
+    https://code.visualstudio.com/
+    https://macromates.com/
+    https://www.sublimetext.com/
+    https://apps.apple.com/us/app/coteditor/id1024640650?mt=12
+    
 <!---
 richardjmartino/richardjmartino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
