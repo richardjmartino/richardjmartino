@@ -1,4 +1,4 @@
-Useful Websites:
+#Useful Websites:
 
 Quarto: 
     https://quarto.org/docs/guide/
@@ -57,10 +57,7 @@ binder - Git repo to interactive notebook:
 Homebrew - Missing package manager:
     https://github.com/Homebrew/brew
 
-Python
-
-Think Python 2e:
-    https://greenteapress.com/wp/think-python-2e/
+##Python
     
 Python PEP 8 Style Guide:
     https://peps.python.org/pep-0008/ 
@@ -92,7 +89,16 @@ Regular Expressions(regex):
     
 Wireframing: 
     https://balsamiq.com/wireframes/
-  
+    
+##Books
+Think Python 2e:
+    https://greenteapress.com/wp/think-python-2e/
+
+R Markdown Cookbook:
+    https://bookdown.org/yihui/rmarkdown-cookbook/
+    
+Mastering Shiny:
+    https://mastering-shiny.org/index.html
 <!---
 richardjmartino/richardjmartino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
