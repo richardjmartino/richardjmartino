@@ -66,6 +66,20 @@ Mastering Shiny:
     
 Book - geographic data analysis, visualization and modeling:
     https://geocompr.robinlovelace.net/    
+
+## Markdown
+
+Markdown editors:
+    https://macdown.uranusjr.com/
+    https://ia.net/
+    https://wereturtle.github.io/ghostwriter/
+    https://dillinger.io/
+   
+Markdown to website:
+    https://jekyllrb.com/
+ 
+Markdown Email:
+    https://markdown-here.com/index.html
     
 ## Other Tools
 
@@ -75,6 +89,7 @@ Crowd-sourced code mentorship:
 Project hosting:
     https://pages.github.com/
     https://www.netlify.com/
+    https://vercel.com/
     
 Zulip - open source team chat:
     https://github.com/zulip/zulip
@@ -98,6 +113,11 @@ Icons:
     
 binder - Git repo to interactive notebook:
     https://binder.mybinder.ovh/
+    
+Expo app building:
+    https://expo.dev/
+    
+## Mac Stuff
 
 Homebrew - Missing package manager:
     https://github.com/Homebrew/brew
