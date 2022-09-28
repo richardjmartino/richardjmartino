@@ -110,6 +110,7 @@ Citations:
 Icons:
     https://thenounproject.com/ 
     https://icons.getbootstrap.com/
+    https://labs.mapbox.com/maki-icons/
     
 binder - Git repo to interactive notebook:
     https://binder.mybinder.ovh/
